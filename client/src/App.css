@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  /* padding: 5%; */
+}
+
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .min-w-mt {
+    min-width: 300px;
+    max-width: 500px;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .flex {
+      flex-direction: column;
+    }
+  }
+  
+
+
