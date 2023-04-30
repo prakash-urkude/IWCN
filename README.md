@@ -1,12 +1,13 @@
 ## Company Name -IWCN
 
 ## TechStack :- 
-frontend : html, css , React.js , Tailwind , Mui
-backend : express.js, MySql
+ - frontend : html, css , React.js , Tailwind , Mui.
+ 
+ - backend : express.js, MySql
 
 ## About 
-This is a "Task app" , helps user to complete there task 
-user can make notes of task and delete them as per there requirement .
+ - This is a "Task app" , helps user to complete there task 
+ - user can make notes of task and delete them as per there requirement .
 
 ## Responsive
 
